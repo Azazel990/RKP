@@ -1,0 +1,3 @@
+A Windows Malware that would Constantly Play the Song Rinkiya ke papa Over and over Again .Similar to RickRoll
+
+Execute rkp.vbs 
